@@ -1,0 +1,19 @@
+Reifen is the tire for printing in TPU or similar, or for creating own molds.
+ReifenGussform is the tire mold for casting silicon tires.
+ReifenGussformHelper is an additional part to make casting easier
+FPV-Auto contains all parts of the car itself
+
+Charger - Charging station. Needs Spring contact
+Chassis - Core chassis. Should be printed in ABS, PETG or similar since it uses M3 threads.
+Lid - Lid for Chassis. Clip on for temporary use, M3 sunk screws for permanent use.
+DOF-Lid - Same as Lid but with additonal mount holes for 9 DOF module.
+Hub-Hex - Wheel hub with hexagonal hole. Matches Reifen.
+Hub-Hex-Special - Special version of Hub for use with older tires, does not match current tire.
+StackHolder - Mount for electronics stack.
+Motor-Mount - Chassis extensions to mount the motors and attach the wheels.
+
+Parts needed
+Charger
+- Spring contact https://www.aliexpress.com/snapshot/0.html?spm=a2g0s.9042311.0.0.18d34c4dAGKCTs&orderId=103870079068787&productId=32918723361 Type J
+Chassis
+- Contact Pad 6x1 mm https://www.aliexpress.com/item/33014228704.html?spm=a2g0s.9042311.0.0.18d34c4dAGKCTs
