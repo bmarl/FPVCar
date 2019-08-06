@@ -1,7 +1,7 @@
-Reifen is the tire for printing in TPU or similar, or for creating own molds.
-ReifenGussform is the tire mold for casting silicon tires.
-ReifenGussformHelper is an additional part to make casting easier
-FPV-Auto contains all parts of the car itself
+Tire - Is the tire for printing in TPU or similar, or for creating own molds.
+TireMold - Tire mold for casting silicon tires.
+TireMoldHelper - An additional part to make casting easier
+Each tire needs ca. 25g of silicone + ca. 5g for waste if you use the helper, likely more without the helper.
 
 Charger - Charging station. Needs Spring contact
 Chassis - Core chassis. Should be printed in ABS, PETG or similar since it uses M3 threads.
